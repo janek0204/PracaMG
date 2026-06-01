@@ -1,0 +1,56 @@
+[
+  {
+    "CaseId": 52,
+    "CreatedOn": "2026-01-24 15:10",
+    "Description": "",
+    "EditedOn": "2026-01-24 16:03",
+    "EndingYear": "2030",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.8.7",
+    "Name": "2017_WTH",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "periodsdef",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 50,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 49,
+    "ScenarioGroup": "2017_WTH",
+    "ScenarioGroupId": 51,
+    "Solver": "cplex",
+    "SolverOptionFile": "cplex",
+    "UserName": "awyrw",
+    "ModelFramework": "Times"
+  }
+]

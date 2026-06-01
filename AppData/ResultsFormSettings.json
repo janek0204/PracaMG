@@ -1,0 +1,67 @@
+{
+  "ApplicationVersion": "4.1.1.1",
+  "UserName": "awyrw",
+  "Date": "2026-01-24 17:09",
+  "FormSettings": {
+    "DimensionsWithColumnsInfo": {
+      "timeslice": {
+        "Select": 20,
+        "Name": 331
+      },
+      "attribute": {
+        "Select": 20,
+        "Name": 180,
+        "Description": 149
+      },
+      "commodity": {
+        "Select": 20,
+        "Name": 167,
+        "Description": 166
+      },
+      "scen_model_framework": {
+        "Select": 20,
+        "Name": 354
+      },
+      "studyname": {
+        "Select": 20,
+        "Name": 252
+      },
+      "region": {
+        "Select": 20,
+        "Name": 349
+      },
+      "process": {
+        "Select": 20,
+        "Name": 229,
+        "Description": 104
+      },
+      "commodityset": {
+        "Select": 20,
+        "Name": 147,
+        "Description": 151
+      },
+      "period": {
+        "Select": 20,
+        "Name": 297
+      },
+      "scenario": {
+        "Select": 20,
+        "Name": 202
+      },
+      "processset": {
+        "Select": 20,
+        "Name": 50,
+        "Description": 50
+      },
+      "userconstraint": {
+        "Select": 20,
+        "Name": 167,
+        "Description": 166
+      },
+      "vintage": {
+        "Select": 20,
+        "Name": 297
+      }
+    }
+  }
+}

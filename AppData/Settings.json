@@ -1,0 +1,35 @@
+{
+  "InitialSetupComplete": true,
+  "VRQSettings": {
+    "ExpectedMemory": "4",
+    "MaxHitWaitTime": "2",
+    "Model": "MSc_SELECT_8760",
+    "Priority": "10"
+  },
+  "GAMSFoldersListAndDefaults": {
+    "PathGAMSRoot": "C:\\Veda",
+    "WorkTimes": "GAMS_WrkTIMES",
+    "SourceTimes": "GAMS_SrcTIMES.v4.8.7",
+    "ListOfSourceTimesFolder": [
+      "GAMS_SrcTIMES.v4.8.7"
+    ],
+    "ListOfWorkTimesFolder": [
+      "GAMS_WrkTIMES"
+    ]
+  },
+  "RmFormSettings": {
+    "IsDDWritingOnly": false,
+    "IsRestartOption": false,
+    "MaxRun": "1",
+    "Solver": "CPLEX",
+    "SolverOption": "BA121-7",
+    "StudyName": "pilot_runs",
+    "IsGamsEngine": false,
+    "RemoveVdFiles": false,
+    "DoNotCreateCaseZipFile": true,
+    "GenerateJacobian": false
+  },
+  "RmCaseZipFilesStorage": {
+    "CaseZipFilesRootPath": "C:\\Veda\\Veda_case_zip_files"
+  }
+}

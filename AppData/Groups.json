@@ -1,0 +1,38 @@
+[
+  {
+    "SavedGroupId": 51,
+    "GroupName": "2017_WTH",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"B-NEWTECHS_PP\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SR\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SS\"}, {\"Name\": \"AF_SOLAR_COP_Utility_2017\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"RS\"}, {\"Name\": \"AF_SOLAR_COP_Utility_2020\", \"Checked\": false, \"RowOrder\": 4, \"ShortName\": \"RS\"}, {\"Name\": \"AF_SOLAR_COP_Utility_2024\", \"Checked\": false, \"RowOrder\": 5, \"ShortName\": \"RS\"}, {\"Name\": \"AF_WIND_OFF_COP_2017\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"RS\"}, {\"Name\": \"AF_WIND_OFF_COP_2020\", \"Checked\": false, \"RowOrder\": 7, \"ShortName\": \"RS\"}, {\"Name\": \"AF_WIND_OFF_COP_2024\", \"Checked\": false, \"RowOrder\": 8, \"ShortName\": \"RS\"}, {\"Name\": \"AF_WIND_ON_COP_2017\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\"}, {\"Name\": \"AF_WIND_ON_COP_2020\", \"Checked\": false, \"RowOrder\": 10, \"ShortName\": \"RS\"}, {\"Name\": \"AF_WIND_ON_COP_2024\", \"Checked\": false, \"RowOrder\": 11, \"ShortName\": \"RS\"}, {\"Name\": \"COM_FR_ELC\", \"Checked\": true, \"RowOrder\": 12, \"ShortName\": \"RS\"}, {\"Name\": \"COM_FR_ELC_IND\", \"Checked\": true, \"RowOrder\": 13, \"ShortName\": \"RS\"}, {\"Name\": \"ELC_IMP\", \"Checked\": true, \"RowOrder\": 14, \"ShortName\": \"RS\"}, {\"Name\": \"RES_SHARE_50%_24_7\", \"Checked\": false, \"RowOrder\": 15, \"ShortName\": \"RS\"}, {\"Name\": \"RES_SHARE_50%_ANNUAL\", \"Checked\": false, \"RowOrder\": 16, \"ShortName\": \"RS\"}, {\"Name\": \"RES_SHARE_90%_24_7\", \"Checked\": true, \"RowOrder\": 17, \"ShortName\": \"RS\"}, {\"Name\": \"WIND_CAP\", \"Checked\": true, \"RowOrder\": 18, \"ShortName\": \"RS\"}]",
+    "CreatedOn": "2026-01-24 15:09",
+    "DisplayCreatedOn": "2026-01-24 15:09",
+    "UserName": "awyrw"
+  },
+  {
+    "SavedGroupId": 49,
+    "GroupName": "AllRegion",
+    "GroupType": "Region",
+    "Settings": "[\"NL\"]",
+    "CreatedOn": "2026-01-24 15:30",
+    "DisplayCreatedOn": "2026-01-24 15:30",
+    "UserName": "awyrw"
+  },
+  {
+    "SavedGroupId": 48,
+    "GroupName": "AllScenario",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 56}, {\"Name\": \"B-NEWTECHS_PP\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 331}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 8768}, {\"Name\": \"AF_SOLAR_COP_Utility_2017\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 26280}, {\"Name\": \"AF_SOLAR_COP_Utility_2020\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 26280}, {\"Name\": \"AF_SOLAR_COP_Utility_2024\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 26280}, {\"Name\": \"AF_WIND_OFF_COP_2017\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 17520}, {\"Name\": \"AF_WIND_OFF_COP_2020\", \"Checked\": true, \"RowOrder\": 8, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 17520}, {\"Name\": \"AF_WIND_OFF_COP_2024\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 17520}, {\"Name\": \"AF_WIND_ON_COP_2017\", \"Checked\": true, \"RowOrder\": 10, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 26280}, {\"Name\": \"AF_WIND_ON_COP_2020\", \"Checked\": true, \"RowOrder\": 11, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 26280}, {\"Name\": \"AF_WIND_ON_COP_2024\", \"Checked\": true, \"RowOrder\": 12, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 26280}, {\"Name\": \"COM_FR_ELC\", \"Checked\": true, \"RowOrder\": 13, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 61320}, {\"Name\": \"COM_FR_ELC_IND\", \"Checked\": true, \"RowOrder\": 14, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 61320}, {\"Name\": \"ELC_IMP\", \"Checked\": true, \"RowOrder\": 15, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 6}, {\"Name\": \"RES_SHARE_50%_24_7\", \"Checked\": true, \"RowOrder\": 16, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1}, {\"Name\": \"RES_SHARE_50%_ANNUAL\", \"Checked\": true, \"RowOrder\": 17, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 9}, {\"Name\": \"RES_SHARE_90%_24_7\", \"Checked\": true, \"RowOrder\": 18, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1}, {\"Name\": \"WIND_CAP\", \"Checked\": true, \"RowOrder\": 19, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 6}]",
+    "CreatedOn": "2026-01-24 15:30",
+    "DisplayCreatedOn": "2026-01-24 15:30",
+    "UserName": "awyrw"
+  },
+  {
+    "SavedGroupId": 50,
+    "GroupName": "DefaultProperties",
+    "GroupType": "Properties",
+    "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
+    "CreatedOn": "2026-01-24 15:30",
+    "DisplayCreatedOn": "2026-01-24 15:30",
+    "UserName": "awyrw"
+  }
+]
